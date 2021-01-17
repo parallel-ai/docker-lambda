@@ -1,4 +1,3 @@
-from DocumentType import *
 import os
 
 class Data(object):
