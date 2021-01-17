@@ -7,5 +7,3 @@ def handler(event, context):
     extractData = Data.data(filePath)
 
     return {'response':extractData}
-
-# print(handler('ok','ok'))
